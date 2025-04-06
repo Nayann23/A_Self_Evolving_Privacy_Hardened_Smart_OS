@@ -1,4 +1,5 @@
-# JARVIS OS
+#A_Self_Evolving_Privacy_Hardened_Smart_OS
+
 
 > 🧠 A Self-Evolving, Privacy-Hardened Smart OS with Voice, Vision, and Behavior-Driven Intelligence  
 > 🎯 Modular · 🧩 Fully Customizable · 🔐 Privacy-First · 🖥️ CLI/GUI Hybrid · 🧠 Context-Aware · 🕵️ Surveillance-Aware
