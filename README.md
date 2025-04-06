@@ -34,7 +34,6 @@ Without revealing implementation specifics, this OS internally handles:
 - 🧠 **Behavior-Aware Modules**  
 - 🕵️ **Monitoring Systems**
 - 🎙️ **Voice Authentication (Voiceprint-secured)**
-- ⌨️ **Dynamic Keyboard, Mouse & Clipboard Activity Tracking**
 - 📊 **Contextual Memory & Session Recall**
 - 🖼️ **Intelligent Screenshot/Screen Capture Automation**
 - ⏱️ **Priority-Based Task Queueing**
