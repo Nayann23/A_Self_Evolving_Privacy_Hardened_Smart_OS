@@ -32,7 +32,7 @@ Security and ethical boundaries are fundamental to its design.
 Without revealing implementation specifics, this OS internally handles:
 
 - 🧠 **Behavior-Aware Modules**  
-- 🕵️ **Stealth Logging & Monitoring Systems**
+- 🕵️ **Monitoring Systems**
 - 🎙️ **Voice Authentication (Voiceprint-secured)**
 - ⌨️ **Dynamic Keyboard, Mouse & Clipboard Activity Tracking**
 - 📊 **Contextual Memory & Session Recall**
