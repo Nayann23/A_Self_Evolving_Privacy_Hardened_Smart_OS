@@ -35,7 +35,6 @@ Without revealing implementation specifics, this OS internally handles:
 - 🕵️ **Monitoring Systems**
 - 🎙️ **Voice Authentication (Voiceprint-secured)**
 - 📊 **Contextual Memory & Session Recall**
-- 🖼️ **Intelligent Screenshot/Screen Capture Automation**
 - ⏱️ **Priority-Based Task Queueing**
 - 🖥️ **GUI/CLI Hybrid Control Interfaces**
 - 📁 **System, App & Credential Monitoring**
