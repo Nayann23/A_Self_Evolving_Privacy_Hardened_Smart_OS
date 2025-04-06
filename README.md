@@ -1,4 +1,4 @@
-<h1>> 🧠 A Self-Evolving, Privacy-Hardened Smart OS with Voice, Vision, and Behavior-Driven Intelligence  </h1>
+<h1>🧠 A Self-Evolving, Privacy-Hardened Smart OS with Voice, Vision, and Behavior-Driven Intelligence  </h1>
 
 > 🎯 Modular · 🧩 Fully Customizable · 🧠 Context-Aware · 🕵️ Monitior-Capable · 🎙️ Voice-Print Secured
 
