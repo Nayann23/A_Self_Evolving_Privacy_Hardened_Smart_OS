@@ -1,4 +1,4 @@
-#A_Self_Evolving_Privacy_Hardened_Smart_OS
+<h1>A_Self_Evolving_Privacy_Hardened_Smart_OS</h1>
 
 
 > 🧠 A Self-Evolving, Privacy-Hardened Smart OS with Voice, Vision, and Behavior-Driven Intelligence  
